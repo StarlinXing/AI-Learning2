@@ -1,0 +1,5 @@
+{
+  "name": "One-Click PWA Demo",
+  "description": "A simple Progressive Web App (PWA) demonstrating the 'Add to Home Screen' functionality with a custom React install button.",
+  "requestFramePermissions": []
+}
